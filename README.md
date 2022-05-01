@@ -1,2 +1,0 @@
-# pricelist
-test
